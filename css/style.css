@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(0, 104, 71);
+}
+
+.subtitle{
+    text-align: justify;
+    font-size: 26px;
+    font-weight: 400;
+    color: rgb(206, 17, 38);
+}
